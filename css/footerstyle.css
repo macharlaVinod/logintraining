@@ -1,0 +1,184 @@
+.footer{
+	    margin-top: 90px;
+    background: darkgray;
+}
+.main1 {
+	padding: left;
+}
+.ei{
+	padding: left;}
+.items li{
+		float: left;
+		
+	}
+	.ft{
+		width: 200px;
+
+	}
+	.footerul{
+    float: left;
+    width: 90%;
+
+	}
+#left,#left3{
+		float: left;
+		width: 707px;
+		height: 300px;
+		color: black;
+		background-color: #f9f9f9;
+
+	}
+	#right,#right3{
+		float: right;
+		width: 700px;
+		height: 300px;
+		background-color: #f9f9f9;
+	}
+	#left2{
+		float: left;
+		width: 707px;
+		height: 300px;
+		color: black;
+		
+
+	}
+	#right2{
+		padding: center;
+		 float: right;
+		width: 700px;
+		height: 300px;
+	
+		color: black;
+	}
+.para1,.p1,.p2,.p3{
+	color: #100404;
+	
+	font-family: sans-serif;
+	font-size: initial;
+	line-height: 8mm;
+}
+#bottom{
+	width: 1600px;
+		height: 250px;
+		background-color: #f9f9f9;
+		color: black;
+}
+.btm{
+
+	background-color: white;
+text-align: center;
+   
+    width: 1500px;
+    color: black;
+}
+.list{
+	text-align: center;
+	color: black;
+}
+.bgimg{
+	min-width: 400px;
+}
+
+.para1 li{
+	line-height: 10mm;
+}
+.btm h3{
+
+	line-height: 35mm;
+	font-family: sans-serif;
+}
+.box1{
+width: 200px;
+height: 200px;
+padding: 20mm;
+
+}
+.box2{
+width: 200px;
+height: 200px;
+padding: 20mm;
+
+
+}
+.box3{
+width: 200px;
+height: 200px;
+padding: 20mm;
+
+}
+.box4{
+width: 200px;
+height: 200px;
+padding: 20mm;
+
+}
+.box{
+	display: -webkit-box;
+}
+.link{
+	color: hotpink;
+}
+ .button3 {
+ 	background-color: white;
+    border-radius: 80px;
+    border-color: #ff6170;
+    font-size: larger;
+    color: #e90924;
+ 	/*margin: 0px 0px 0px 180px;*/
+    padding: 5px 20px;
+}
+.footer{
+	background-image: url(img5.jpg);
+	width: 1500px;
+    height: 500px;
+        padding: 5mm;
+    margin-top: 10mm;
+}
+.f1{
+
+color: white;
+}
+.menulist li{
+	color: white;
+	list-style-type: none;
+	line-height: 10mm;
+}
+.menulist{
+	    display: -webkit-inline-box;
+    padding: 15mm;
+    margin: 45mm;
+    margin-top: inherit;
+
+}
+.menulist strong{
+	color: white;
+	margin: 10mm;
+}
+.fa.fa-facebook a:hover{
+background-color: green;
+}
+.fa.fa-facebook a:active{
+	font-size: 60%;
+}
+
+.menu5 a:hover{
+	background-color: white;
+	font-size: 150%;
+}
+.button3:hover{
+	background-color: lightpink;
+	color:white;
+	border-color: #ff6170;
+}
+.button1:hover{
+color: black;
+}
+.button1:active{
+	font-size: 200%;
+}
+.link:hover{
+
+}
+.link:active{
+	font-size: 110%;
+}
